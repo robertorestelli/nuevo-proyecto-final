@@ -1,7 +1,12 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
 header{
     background-color: #FFB3C1;
     width: 100%;
-    height: 15vh;
+
   
    
 }
@@ -9,13 +14,29 @@ main{
   background-color: #FFB3C1;
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
+ /*  background-size: cover */;
   width: 100%;
   height: auto;
   font-weight: bold;
 }
+.random{
+  background-color: #FFB3C1;
+}
+
+.hero{
+  justify-content: center;
+}
+
+nav{
+  background-color: #ffc3ce;
+}
+
+#ejemplo{
+  height: 100vh;
+}
+
  /* menu */   
-li{
+/* li{
   
   display: inline-block;
   background:#FF4D6D;
@@ -32,8 +53,8 @@ li:hover{
 a{
   text-decoration: none;
   color: #590D22;
-}
-           /* footer */    
+} */
+                 
            footer{
 
             background-color: #ffc3ce;  
@@ -61,4 +82,15 @@ a{
            
             background:rgb(185, 144, 213);
             border-color:rgb(185, 144, 213) ;
+            }
+
+
+
+            #general{
+              background-color: #ffb3c1;
+              
+            }
+            
+            #margenExtra{
+              padding: 20px 0 20px 0;
             }
