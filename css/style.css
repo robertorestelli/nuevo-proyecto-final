@@ -1,96 +1,75 @@
-*{
+* {
   margin: 0px;
-  padding: 0px;
-}
+  padding: 0px; }
 
-header{
-    background-color: #FFB3C1;
-    width: 100%;
+header {
+  background-color: #FFB3C1;
+  width: 100%; }
 
-  
-   
-}
-main{
+main {
   background-color: #FFB3C1;
   background-repeat: no-repeat;
   background-position: center;
- /*  background-size: cover */;
+  /*  background-size: cover */
   width: 100%;
   height: auto;
-  font-weight: bold;
-}
-.random{
-  background-color: #FFB3C1;
-}
+  font-weight: bold; }
 
-.hero{
-  justify-content: center;
-}
+.random {
+  background-color: #FFB3C1; }
 
-nav{
-  background-color: #ffc3ce;
-}
+.hero {
+  justify-content: center; }
 
-#ejemplo{
-  height: 100vh;
-}
+nav {
+  background-color: #ffc3ce; }
 
- /* menu */   
+#ejemplo {
+  height: 100vh; }
+
+/* menu */
 /* li{
-  
-  display: inline-block;
-  background:#FF4D6D;
-  border-radius: 30px;
-  padding: 10px 30px;
-  text-decoration: none;
-  font-size: 20px;
-  font-family: sans-serif;
-  font-weight: bold;
-}
-li:hover{
-  background:rgb(185, 144, 213);
-}
-a{
-  text-decoration: none;
+    
+    display: inline-block;
+    background:#FF4D6D;
+    border-radius: 30px;
+    padding: 10px 30px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+  li:hover{
+    background:rgb(185, 144, 213);
+  }
+  a{
+    text-decoration: none;
+    color: #590D22;
+  } */
+footer {
+  background-color: #ffc3ce;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 30px 10px 30px; }
+
+footer a {
+  display: flex;
+  width: 40px;
+  height: 40px; }
+
+.btn-primary {
   color: #590D22;
-} */
-                 
-           footer{
+  background-color: #FF4D6D;
+  border-color: #FF4D6D; }
 
-            background-color: #ffc3ce;  
-            color: #fff;
-            display: flex;
-            align-items: center;
-            justify-content:space-between;
-            padding: 0 30px 10px 30px;
-        
-        }
-        
-        footer a{
-            display: flex;
-            width: 40px;
-            height: 40px;
-         
-        }
-      
-        .btn-primary {
-          color: #590D22;
-          background-color:#FF4D6D;
-          border-color: #FF4D6D;}
-        
-          .btn-primary:hover {
-           
-            background:rgb(185, 144, 213);
-            border-color:rgb(185, 144, 213) ;
-            }
+.btn-primary:hover {
+  background: #b990d5;
+  border-color: #b990d5; }
 
+#general {
+  background-color: #ffb3c1; }
 
-
-            #general{
-              background-color: #ffb3c1;
-              
-            }
-            
-            #margenExtra{
-              padding: 20px 0 20px 0;
-            }
+#margenExtra {
+  padding: 20px 0 20px 0; }
