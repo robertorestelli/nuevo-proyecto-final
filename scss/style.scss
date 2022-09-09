@@ -1,11 +1,13 @@
-*{
-    margin: 0px;
-    padding: 0px;
-  }
+
 
   @import " ./variable";
+  @import "./mixins";
   @import " ./footer"; 
 
+
+  *{
+    @include reset;
+  }
 
   
 
