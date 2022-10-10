@@ -6,6 +6,8 @@ header {
   background-color: #FFB3C1;
   width: 100%; }
 
+
+
 main {
  
   background-color: #FFB3C1;
@@ -23,7 +25,7 @@ main {
   justify-content: center; }
 
 nav {
-  background-color: #ffc3ce; }
+  background-color: #FFB3C1; }
 
 #ejemplo {
   height: 100vh; }
@@ -31,7 +33,7 @@ nav {
 
 footer {
   background-color: #ffc3ce;
-  color: #fff;
+  color: #590d22;
   display: flex;
   align-items: center;
   justify-content: space-between;
