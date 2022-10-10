@@ -32,8 +32,8 @@ nav {
 
 
 footer {
-  background-color: #ffc3ce;
-  color: #590d22;
+  background-color: #590d22;
+  color:  #ffc3ce;
   display: flex;
   align-items: center;
   justify-content: space-between;
