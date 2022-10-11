@@ -34,7 +34,11 @@ nav {
   font-size: x-large }
 
 .navbar .navbar-nav .nav-link:hover{
-  color: #fff ; 
+  color: #fff; 
+  font-weight: 600;
+}
+
+.navbar .navbar-nav .nav-link{
   font-weight: 600;
 }
 
@@ -82,4 +86,5 @@ footer a {
 .navbar-brand{
   font-size: xx-large;
   font-family: 'Dancing Script', cursive;
+
 }
